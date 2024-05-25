@@ -1,0 +1,97 @@
+ 1 python foundation was lais in the late 1980
+the first publicly released version, 0.9.0,was published by guido van rossum
+ in february 1991.
+ erly releases
+python 1.0 released in 1994
+3 major version
+python 2.0 released in 2000 and python 3.0 released in 2008
+
+* PYTHON APPLICATION
+- artificial intelligence
+- data analytics
+- data visualization
+- programming applications
+- web development
+- game development
+- language development
+- search engine optimization
+
+
+*  PYTHON FEATURES
+- easy to lear and read
+- object oriented
+- cross -platform compatibility
+- interpreted
+- large standard library
+- popularity and community
+
+* creating a comment
+ = comments starts with a #,and python will ignore them
+ # this is comment
+
+ =you can add a multiple string (triple  quotes ) in your code, and place your comment inside it:
+ """
+ this is comment
+ written in more than just one line
+ """
+
+ * WRITING STRINGS
+ single, double quotes  and triple quotes used to write single line comment
+
+  data types
+  int  = integer
+  string = characters and latters
+ bolean = true or false data type
+complex =
+
+ * CONDITIONAL STATEMENTS
+
+are use to decision making statement
+ IF:
+IF ELSE :
+ELIF :
+*
+IF: in python if one of condition statement that allows u to execute code only if certen condtion is true
+
+IF ELSE : if statement with else execute a dif block of code when the condition is not met . the syntax for an an if statement with else is
+
+syntax :
+ if condition :
+#ocde
+
+else :
+# code
+
+ELIF :
+  u can also use if statement with elif (short for"else if") to check multiple condition
+ syntax :
+
+if condition 1:
+#  code
+elif condition 2:
+#code
+else :
+#code
+
+* PYTHON LOOPS: -WHILE LOOP:  A WHILE loop is used when u want to execute a block of code as long as a condition is ture
+qit keeps iteration  until the condition  become false... fLOOP :
+  when we know the number ofbrepetitions , we use a for loop , in a for loop , we use the
+for keyword along with the range menthd, it can be done 3 types
+
+* -range(val)
+-range(start, end )
+- range (start,end,step)
+
+syntax:
+for i in range():
+true block
+
+* string methods
+ the str clss provides numerous methodes
+
+
+ * it is a orderd and collection class
+  order imutable collection class
+  set : it is a un orderd muteble collection calss
+  dict: it is a cololectuin clsss where it has key value pair of values
+
